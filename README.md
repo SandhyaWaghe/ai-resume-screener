@@ -1,8 +1,8 @@
-# 🧠 AI-Powered Resume Screener
+# AI-Powered Resume Screener
 
 An intelligent web application that matches candidate resumes against job descriptions using Natural Language Processing and Machine Learning.
 
-## 🚀 Features
+## Features
 
 - Upload resumes in PDF/DOCX format
 - Extract key details (Name, Email, Skills)
@@ -10,19 +10,19 @@ An intelligent web application that matches candidate resumes against job descri
 - Simple web UI for HR professionals
 - Flask + Python backend | HTML/CSS/JS frontend
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Flask
 - **NLP/ML:** Scikit-learn, TfidfVectorizer, PyPDF2, docx2txt
 
-## 📸 Demo
+##  Demo
 
 _Output Image_
 ![image](https://github.com/user-attachments/assets/5b5625e7-4775-4ebe-b648-05d139eb20b3)
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 ai-resume-screener/
@@ -32,7 +32,7 @@ ai-resume-screener/
 └── README.md
 ```
 
-## 🧪 How to Run
+##  How to Run
 
 ### Backend
 ```bash
@@ -44,14 +44,14 @@ python app.py
 ### Frontend
 Just open `frontend/index.html` in your browser.
 
-## 🎯 What This Project Demonstrates
+##  What This Project Demonstrates
 
 - Full-stack development
 - Real-world ML/NLP application
 - File processing, data extraction
 - API development and integration
 
-## 📬 Contact
+##  Contact
 
 - **Name:** Sandhya Waghe
 - **Email:** sandhyawaghe025@gmail.com
