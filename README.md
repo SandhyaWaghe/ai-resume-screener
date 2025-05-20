@@ -53,6 +53,4 @@ Just open `frontend/index.html` in your browser.
 
 - **Name:** Sandhya Waghe
 - **Email:** sandhyawaghe025@gmail.com
-- **LinkedIn:** [@sandhyawaghe](https://www.linkedin.com/in/sandhyawaghe-a95215256)
 
-> ⭐ Star this repo if you find it helpful!
