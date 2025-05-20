@@ -18,7 +18,9 @@ An intelligent web application that matches candidate resumes against job descri
 
 ## 📸 Demo
 
-_(Add screenshot in screenshots/demo.png)_
+_Output Image_
+![image](https://github.com/user-attachments/assets/5b5625e7-4775-4ebe-b648-05d139eb20b3)
+
 
 ## 📂 Project Structure
 
